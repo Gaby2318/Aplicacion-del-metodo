@@ -35,6 +35,7 @@ Este modelo puede integrarse como un microservicio dentro de un sistema de gesti
 ## 📁 Estructura del Proyecto
 
 📁 regresion-logistica-admision/
+
 │
 ├── 📄 README.md
 
