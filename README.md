@@ -37,9 +37,13 @@ Este modelo puede integrarse como un microservicio dentro de un sistema de gesti
 📁 regresion-logistica-admision/
 │
 ├── 📄 README.md
+
 ├── 📄 Aplicación del metodo.ipynb
+
 ├── 📄 datos_estudiantes.csv
+
 ├── 🖼️ grafica_resultados.png
+
 └── 📄 requirements.txt
 ---
 
