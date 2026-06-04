@@ -45,6 +45,7 @@ Este modelo puede integrarse como un microservicio dentro de un sistema de gesti
 ├── 🖼️ grafica_resultados.png
 
 └── 📄 requirements.txt
+
 ---
 
 ## 💻 Requisitos y Dependencias
